@@ -74,4 +74,4 @@ gaeun SETTLE:QUERY <- 예외 5번 | 만료된 예외, 90일 넘게 안 씀(이�
 
 - (가) `git status` 를 쳤을 때 `Untracked files:` 아래에 줄이 몇 개 보였는지, 그중에 `.env` 나 `.venv` 가 있었는지 적어 주세요.
   - 쓸 내용: ① 줄 수 ② `.env` · `.venv` 가 있었는지 없었는지
-  - 답:
+  - 답: `Untracked files:` 아래에 16줄이 보였다(config 안 파일 2개, .py 파일 10개, .md 파일 4개). `.env` 와 `.venv` 는 없었다.
