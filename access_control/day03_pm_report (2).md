@@ -60,7 +60,7 @@
 1 seoyeon granted -> 부여
 2 gaeun rejected -> 승인되지 않음
 3 dami approved -> 부여하지 않음(퇴사한 계정)
-4 junho approved -> 부여하지 않음(허용)
+4 junho approved -> 부여하지 않음(허용)+
 5 seoyeon reviewing -> 승인되지 않음
 6 tester reviewing -> 승인되지 않음
 --- 단계 2: 점검 - 상태별 건수와 SLA
